@@ -61,8 +61,12 @@ a:hover {
   border-radius: 10px;
   box-shadow: 2px 2px 2px #FFE3DC;
   margin: 20px auto;
+  padding: 15px 15px;
 }
 
+.margin-text {
+  margin: 20px 20px;
+}
 
 .img-circle {
   width: 150px;
@@ -99,6 +103,15 @@ inlijne-block => inline text mais avec des blocks*/
 
 .margin {
   margin: 20px auto;
+}
+
+.button {
+  color: red;
+  font-size: 20px;
+  padding: 5px 5px;
+  font-family: 'Stylish', sans-serif;
+  border-radius: 10px;
+  background-color: white;
 }
 
 body {
